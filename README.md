@@ -1,6 +1,4 @@
-# 深入 React 技术栈示例代码
-
-![](http://www.ituring.com.cn/bookcover/1898.25.big.jpg)
+update
 
 ## 示例说明
 
